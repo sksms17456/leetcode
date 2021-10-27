@@ -14,6 +14,7 @@
 | 21   | Merge Two Sorted Lists[[문제]](https://leetcode.com/problems/merge-two-sorted-lists/)[[소스]](https://github.com/sksms17456/leetcode/blob/master/easy/21_Merge_Two_Sorted_Lists.js)                                     | [풀이 보기](https://hbjj.oopy.io/76ed0dc2-bf24-4aae-8f1d-361813ef3082) |
 | 26   | Remove Duplicates from Sorted Array[[문제]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)[[소스]](https://github.com/sksms17456/leetcode/blob/master/easy/26_Remove_Duplicates_from_Sorted_Array) | [풀이 보기](https://hbjj.oopy.io/ca1c10ea-aa8f-4a7f-a015-d1b0bd9b9020) |
 | 27   | Remove Element[[문제]](https://leetcode.com/problems/remove-element/)[[소스]](https://github.com/sksms17456/leetcode/blob/master/easy/27_Remove_Element)                                                                | [풀이 보기](https://hbjj.oopy.io/c297be0f-96e2-4f3a-8dbf-349832c25950) |
+| 28   | Implement strStr[[문제]](https://leetcode.com/problems/implement-strstr/)[[소스]](https://github.com/sksms17456/leetcode/blob/master/easy/28_Implement_strStr)                                                          | [풀이 보기](https://hbjj.oopy.io/b29a6ca4-70df-458e-9ad3-0ad11c384371) |
 
 </div>
 </details>
